@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    text-align: center;
+    font-size: 36px;
+    color: black;
+    background-color: yellow;
+    margin: 16px auto;
+    border: black 1px solid;
+    padding: 8px;
+}
+
+.recipe-list {
+    display: table;
+    margin: 0 auto;
+    list-style: none;
+}
+
+#carb,
+#lasa,
+#past {
+    margin: 16px auto;
+    border: black 1px solid;
+    padding: 8px 100px;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+#carb a {
+    color: aqua;
+}
+
+#carb {
+    background-color: black;
+}
